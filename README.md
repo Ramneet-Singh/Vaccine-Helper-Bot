@@ -1,6 +1,6 @@
 # Vaccine-Helper-Bot
-Telegram bot providing a user-friendly and flexible way to be notified about available vaccination slots. Check it out at http://t.me/vaccineHelperBot
-
+Telegram bot providing a user-friendly and flexible way to be notified about available vaccination slots. Check it out at http://t.me/vaccineHelperBot.  
+Note: The code for this bot has changed significantly since, but it is still running at the same link. We have created Telegram channels for **400+ Districts** now, and helped many people.
 ## Usage Instructions
 - Search for slots in the next 2 days by State and District Name or by PIN Code
 - Choose the age group to search for (18+ or 45+)
